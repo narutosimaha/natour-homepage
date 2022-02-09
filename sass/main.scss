@@ -1,0 +1,88 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+@import "pages/home";
+
+@import "components/button";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/card";
+@import "components/story";
+@import "components/bg-video";
+@import "components/form";
+@import "components/popup";
+@import "components/video";
+
+@import "layout/grid";
+@import "layout/header";
+@import "layout/footer";
+@import "layout/navigation";
+
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+////////////////NORMAL CSS/////////////////////
+// .btn:link,
+// .btn:visited {
+//   text-transform: uppercase;
+//   text-decoration: none;
+//   padding: 1.5rem 3.5rem;
+//   display: inline-block;
+//   border-radius: 15rem;
+//   position: relative;
+//   transition: all 0.2s;
+//   font-size: 1.3rem;
+// }
+
+// .btn:hover {
+//   transform: translateY(-0.3rem);
+//   box-shadow: 0rem 1rem 2rem rgba($color-black, 0.205);
+// }
+
+// .btn:active {
+//   transform: translateY(-0.1rem);
+//   box-shadow: 0rem 0.5rem 1rem rgba($color-black, 0.199);
+// }
+
+// .btn::after {
+//   content: "";
+//   display: inline-block;
+//   height: 100%;
+//   width: 100%;
+//   border-radius: 15rem;
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   z-index: -1;
+//   transition: all 0.2s;
+// }
+// .btn:hover::after {
+//   transform: scaleX(1.4) scaleY(1.6);
+//   opacity: 0;
+// }
+
+// .btn-white::after {
+//   background-color: $color-white;
+// }
+
+// .btn--white {
+//   color: $color-grey-dark;
+//   background-color: $color-white;
+// }
+
+// .btn--animated {
+//   animation: fromBottom 0.5s ease-out 0.75s;
+//   animation-fill-mode: backwards;
+// }
