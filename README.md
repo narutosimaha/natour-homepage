@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/82920386/159165532-23b47b47-8f64-4ca9-82d3-27d134ff0660.png)
 
-This is a homepage of the natour project which is an application for booking a tour to travel. I made this project when learning Advanced CSS/ Sass taught by Jonas Schedment on Udemy. 
+This is a homepage of the natour project which is an application for booking a tour to travel (The link to this app is put below). I made this project when learning Advanced CSS/ Sass taught by Jonas Schedment on Udemy. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -53,3 +53,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Deploy
 Link: https://narutosimaha.github.io/natour-homepage/
 
+## More
+Natour application link: https://github.com/narutosimaha/natours-project.git
